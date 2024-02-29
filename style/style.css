@@ -2,10 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: antiquewhite;
 }
 
-body{
-    background-color: antiquewhite;
+h1{
+    text-align: center;
+    background-color: rgb(233, 195, 137)    ;
 }
 p
 {
