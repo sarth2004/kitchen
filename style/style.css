@@ -3,31 +3,11 @@ body {
     margin: 0;
     padding: 0;
 }
-header {
-    background-color: #f8f9fa;
-    padding: 20px;
-    text-align: center;
+
+body{
+    background-color: antiquewhite;
 }
-nav {
-    background-color: #343a40;
-    color: white;
-    padding: 10px;
-    text-align: center;
-}
-nav a {
-    color: white;
-    text-decoration: none;
-    padding: 10px;
-}
-section {
-    padding: 20px;
-}
-footer {
-    background-color: #343a40;
-    color: white;
-    padding: 10px;
-    text-align: center;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+p
+{
+    font-size: large;
 }

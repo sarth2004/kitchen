@@ -1,3 +1,11 @@
 h1{
     text-align: center;
+    background-color: rgb(233, 195, 137)    ;
+}
+body{
+    background-color: antiquewhite;
+}
+img
+{
+    border-radius: 50%;
 }

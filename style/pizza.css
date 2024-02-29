@@ -4,5 +4,13 @@ img{
     
 }
 h1{
-    font-size: 50px;
+    text-align: center;
+    background-color: rgb(233, 195, 137)    ;
+}
+body{
+    background-color: antiquewhite;
+}
+img
+{
+    border-radius: 50%;
 }
